@@ -1,4 +1,4 @@
-# Finding the CIDR range
+# Creating a VPC and two subnets
 
 ## Part one
 > Create a module that creates a VPC and two subnets. The module takes inputs for:
